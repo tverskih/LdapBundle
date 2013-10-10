@@ -1,5 +1,5 @@
 <?php
-
+#test
 namespace IMAG\LdapBundle\Manager;
 
 use Symfony\Component\Security\Core\Exception\AuthenticationException;
